@@ -1,2 +1,2 @@
 # produktivitas
-Menghitung produktiivitas (teknik industri)
+Menghitung produktivitas (teknik industri)
