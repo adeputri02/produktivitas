@@ -1,4 +1,4 @@
-# produktivitas
+# Metode PET
 Menghitung produktivitas (teknik industri)
 
 ## Screenshoot halaman utama
